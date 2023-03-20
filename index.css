@@ -1,4 +1,6 @@
 body {
+  color: white;
+  background: #303030;
   max-width: 800px;
   font-family: "Source Code Pro";
   font-size: 1.2rem;
